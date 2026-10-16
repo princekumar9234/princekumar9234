@@ -64,26 +64,28 @@ A project focused on travel planning and discovering places.
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=princekumar9234&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=princekumar9234&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
 ## 📈 Contribution Activity Graph
 
+
 <p align="center">
-  <a href="https://github.com/princekumar9234">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=princekumar9234&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princekumar9234&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </p>
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=princekumar9234&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
