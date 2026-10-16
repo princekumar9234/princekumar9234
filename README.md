@@ -73,7 +73,9 @@ A project focused on travel planning and discovering places.
 
 
 
-[![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=princekumar9234)](https://github.com/princekumar9234)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=princekumar9234&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Activity Graph" />
+</p>
 
 
 ---
