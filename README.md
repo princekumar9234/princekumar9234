@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on [Doctor–Patient Appointment & Chat Application](https://github.com/princekumar9234/Medical)
+- 🔭 Currently working on [Github-Clone](https://github.com/princekumar9234/GitHub)
 - 🌱 Learning **Data Structures & Algorithms with Java, AI/ML**
 - 💻 Interested in **Full-Stack Development and Backend Engineering**
 - 🤝 Looking to collaborate on **Hackathons and Open-Source Projects**
