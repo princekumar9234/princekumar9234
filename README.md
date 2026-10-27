@@ -14,8 +14,8 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on [Github-Clone](https://github.com/princekumar9234/GitHub)
+- - completed  **MERN Stack development**
 - 🌱 Learning **Data Structures & Algorithms with Java, AI/ML**
-- completed  **MERN Stack development**
 - 💻 Interested in **Full-Stack Development and Backend Engineering**
 - 🤝 Looking to collaborate on **Hackathons and Open-Source Projects**
 - 💬 Ask me about **React, Tailwind CSS, Node.js, Express.js, MongoDB, REST APIs, JWT Authentication**
